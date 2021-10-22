@@ -14,3 +14,6 @@
 # Password: admin
 
 Added the Auth to route to bussiness contacts if the auth is succesful if auth fails, user can still see the portfolio
+
+Bussiness list and login page were the new rotues that were added the two views are using the same EJS engine, which were used previously.
+
